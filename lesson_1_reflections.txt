@@ -1,0 +1,22 @@
+Q: How did viewing a diff between two versions ofa file help you see the bug that was introduced?
+A: it help compare and octrast tow different lines of code which then help me differatneing the differences and I found the bug easier.
+
+Q: How could having easy access to the entire history of a file make you a more efficient porgrammer in the long term?
+A: It could help you look at past versions and see how more effiently you could write the code. Also it could help you see how you work and then can evaluate the skills you might need the file better. It could also let you experiment more and get your ideas out since you have backups and can always go back if you do not like the direction you are headed.
+
+Q: What do you think are the pors and cons of manually choosing when to create a commit, like you do in git, vs having versions automatically saved, like Google Docs does?
+A: the pros are that you know what wpecidfic changes you did vs not really knowing only knowing at saved a particullary time. Another pro is that you don't need an interent connection to save you file vs having to reliey on the internet for google. A con for manually saving is that you might forget or worse you might loose that file before saving it.
+
+Q: Why do you thing some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+A: Because most likely with git all the files usually have something to do with each other, unlike in docs they are proablaly refenceing different topics,
+
+Q: How can you use the commands git log and git diff to view the history of files?
+A: the git lets you see the versions you save of the ifle along with comments made of the fis you did. The git diff lets you see the differences between two fiels of your choosing.
+
+Q: How might using version control make you more confident to make changes that could break something?
+A: It could give me peace of mind tha I could confidently trace the bug if I introduce one in the code by referiing back to my old versions.
+
+Q: Now That you have your workspace set up, what do you wnat to try using Git for?
+A: I Want to use to rule the owrld.
+
+

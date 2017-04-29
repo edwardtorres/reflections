@@ -1,0 +1,3 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: When you initializea repository it creates a new git path in which you can save your commits. So you can keep track of the commits and code you write.
+
