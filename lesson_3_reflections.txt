@@ -1,0 +1,2 @@
+Q: When would you want to use a remote repository rather than keeping all your work local?
+A: Because that way it is more secure and you can also access the file anywhere there is an internet connection.
